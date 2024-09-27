@@ -2,16 +2,6 @@
 
 This project analyzes the World Happiness Report dataset using various machine learning methodologies to understand the factors contributing to happiness across different countries and predict happiness scores.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Data](#data)
-- [Models](#models)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Authors](#authors)
-
 ## Overview
 
 The World Happiness Report is an annual publication that ranks countries based on their happiness levels. This project aims to:
@@ -62,7 +52,8 @@ We implement and compare the following regression models:
 ## Results
 
 Our analysis found that the Random Forest Regressor outperformed other models in predicting happiness scores, achieving the highest R² score on the test dataset.
-[Result](https://github.com/hariharanrb7/WORLD-HAPPINESS-REPORT/blob/b052400334ed2f0bea182c54091e8a4719bbb8db/result.png)
+
+![Result](./result.png)
 
 ## Future Work
 
