@@ -62,7 +62,7 @@ We implement and compare the following regression models:
 ## Results
 
 Our analysis found that the Random Forest Regressor outperformed other models in predicting happiness scores, achieving the highest R² score on the test dataset.
-
+[Result](https://github.com/hariharanrb7/WORLD-HAPPINESS-REPORT/blob/b052400334ed2f0bea182c54091e8a4719bbb8db/result.png)
 
 ## Future Work
 
